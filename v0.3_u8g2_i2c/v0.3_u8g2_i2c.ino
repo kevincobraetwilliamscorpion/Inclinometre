@@ -1,3 +1,17 @@
+//Source pour la corélation entre accélérometre et gyroscope
+
+//https://www.youtube.com/watch?v=XCyRXMvVSCw&t
+//https://dronebotworkshop.com/mpu-6050-level/
+
+//https://www.youtube.com/watch?v=USa3HFLnrlk&t
+//https://www.instructables.com/DIY-Digital-Spirit-Level/
+
+//https://www.youtube.com/watch?v=UxABxSADZ6U.
+
+//https://www.posital.com/fr/produits/inclinometres/mems/MEMS-Technology.php
+
+
+
 #include <Arduino_LSM9DS1.h>
 #include <Arduino.h>
 #include <U8g2lib.h>
