@@ -2,7 +2,7 @@
 
 Nous sommes une équipe composée de Kevin Scorpion Bond Fournier et de William Cobra Perron. Nous sommes présentement des étudiants en informatique et nous sommes aussi de grand amateur de moto. En tant que grands amateurs de vitesse, nous nous somme intéresser à la compétition de moto de vitesse sur piste. L&#39;idée de notre projet à découler de nos passions communes, il était donc évidant que nous allions travailler sur un projet étroitement lié à la moto.
 
-Problématique
+# Problématique
 
 La problématique ciblée, c&#39;est de pouvoir prouver à ses amis qui penchent le plus parce que tout motard qui se respecte le sait que c&#39;est important de savoir ça. Plus sérieusement, appart combler l&#39;égo de certain, cela pourrait prévenir des chutes causées par une trop grande prise d&#39;angle ou même pour mesurer l&#39;amélioration d&#39;un pilote en piste. Nous avons eu cette idée, car nous somme nous-même des motards, cet outil nous paraissait très utile et comblait un besoin que nous avions en tant que motard. Justement comme dit précédemment, le besoin d&#39;écoulait directement de l&#39;expérience de William et Kevin en tant que motard. Nous allons commencer la moto sur piste de course au mois du juin et l&#39;inclinomètre nous permettra de mesurer notre progression. Notre objectif c&#39;est d&#39;avoir deux prototypes fonctionnels pour nos deux motos et si le tout fonctionne bien nous avons des amis motard intéressé à en acheter.
 
